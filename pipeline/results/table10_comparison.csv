@@ -1,0 +1,5 @@
+﻿model,source,dataset_note,acc_percent
+Hybrid KNN+ID3 (I) — Soukaena Hassan et al. [67],paper Table 10,"PIDD (Pima, binary) — not IPDD",98.25
+EMLM: K-NN+AB+DT+RF (I) — Abnoosian et al. 2023 (paper),paper Table 10,IPDD (multiclass),99.87
+"EMLM (repro, balanced 5x4x1) — this work",results/dataset2_table9.csv,IPDD standard 826 rows after strict dedup,97.7
+EMLM (repro) on Dataset1 generality check — this work,results/dataset1_table9.csv,"Chinese dataset 5922 rows, 11 features",89.48

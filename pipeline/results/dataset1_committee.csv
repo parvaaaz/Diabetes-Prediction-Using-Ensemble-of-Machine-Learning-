@@ -1,0 +1,5 @@
+﻿exp,prep,selector,model,aac_nb02
+exp1_table5,Z,all_features,RF,0.7375
+exp2_table6,Z,mrmr_10,RF,0.7377
+exp3_table7,Z,pca_0.98,SVM,0.6635
+exp4_table8,Z,ica_5,RF,0.5687

@@ -1,0 +1,23 @@
+{
+  "name": "dataset1",
+  "path": "../Dataset1/Dataset for diabetes research.csv",
+  "encoding": "latin-1",
+  "columns": {
+    "ID": "NO",
+    "Gender": "Gender",
+    "AGE": "Age",
+    "Urea": "BUN",
+    "Cr": "SCRE",
+    "FBS": "FPG",
+    "HbA1c": "HbA1c",
+    "Chol": "CHOL",
+    "TG": "TG",
+    "HDL": "HDL",
+    "LDL": "LDL",
+    "VLDL": null,
+    "BMI": "BMI",
+    "CLASS": "PGclass3"
+  },
+  "gender_mapping": "1_2",
+  "class_mapping": "0_1_2"
+}

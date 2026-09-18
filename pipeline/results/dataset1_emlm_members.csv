@@ -1,0 +1,5 @@
+﻿exp,prep,selector,model,aac,acc,auc,weight
+exp1_table5,Z,all_features,RF,0.7375,0.8955,0.8671,0.8637
+exp2_table6,Z,mrmr_10,RF,0.7377,0.8955,0.8731,0.8665
+exp3_table7,Z,pca_0.98,SVM,0.6635,0.8617,0.8471,0.845
+exp4_table8,Z,ica_5,RF,0.5687,0.7994,0.7942,0.7925

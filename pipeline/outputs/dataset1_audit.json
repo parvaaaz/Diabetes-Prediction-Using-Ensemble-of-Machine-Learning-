@@ -1,0 +1,43 @@
+{
+  "dataset": "dataset1",
+  "n_rows": 5922,
+  "n_features_available": 11,
+  "features_missing_entirely": [
+    "VLDL"
+  ],
+  "class_distribution": {
+    "N": 4444,
+    "P": 1121,
+    "Y": 357
+  },
+  "gender_0F_1M": {
+    "0": 3156,
+    "1": 2766
+  },
+  "duplicates_feature_level": 0,
+  "missing_pct": {
+    "Urea": 0.32,
+    "Cr": 0.86,
+    "HbA1c": 9.27,
+    "Chol": 0.3,
+    "TG": 0.3,
+    "HDL": 0.3,
+    "LDL": 0.3,
+    "VLDL": 100.0,
+    "BMI": 1.91
+  },
+  "mean_features": {
+    "Gender": 0.47,
+    "AGE": 40.27,
+    "Urea": 4.91,
+    "Cr": 66.06,
+    "FBS": 5.63,
+    "HbA1c": 5.57,
+    "Chol": 5.19,
+    "TG": 1.71,
+    "HDL": 1.67,
+    "LDL": 3.18,
+    "VLDL": null,
+    "BMI": 22.5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "dataset2",
+  "path": "../Dataset2/Dataset of Diabetes .csv",
+  "encoding": "utf-8",
+  "columns": {
+    "ID": "ID",
+    "Gender": "Gender",
+    "AGE": "AGE",
+    "Urea": "Urea",
+    "Cr": "Cr",
+    "FBS": null,
+    "HbA1c": "HbA1c",
+    "Chol": "Chol",
+    "TG": "TG",
+    "HDL": "HDL",
+    "LDL": "LDL",
+    "VLDL": "VLDL",
+    "BMI": "BMI",
+    "CLASS": "CLASS"
+  },
+  "gender_mapping": "M_F",
+  "class_mapping": "N_P_Y"
+}

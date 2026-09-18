@@ -1,0 +1,35 @@
+{
+  "dataset": "dataset2",
+  "n_rows": 1000,
+  "n_features_available": 11,
+  "features_missing_entirely": [
+    "FBS"
+  ],
+  "class_distribution": {
+    "N": 103,
+    "P": 53,
+    "Y": 844
+  },
+  "gender_0F_1M": {
+    "0": 435,
+    "1": 565
+  },
+  "duplicates_feature_level": 174,
+  "missing_pct": {
+    "FBS": 100.0
+  },
+  "mean_features": {
+    "Gender": 0.56,
+    "AGE": 53.53,
+    "Urea": 5.12,
+    "Cr": 68.94,
+    "FBS": null,
+    "HbA1c": 8.28,
+    "Chol": 4.86,
+    "TG": 2.35,
+    "HDL": 1.2,
+    "LDL": 2.61,
+    "VLDL": 1.85,
+    "BMI": 29.58
+  }
+}
